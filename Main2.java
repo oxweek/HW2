@@ -6,7 +6,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 
-public class Main {
+public class Main2 {
 
     private static ArrayList<String> todoList = new ArrayList<>();
     private static DefaultListModel<JCheckBox> listModel = new DefaultListModel<>();
