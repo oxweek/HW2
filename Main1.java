@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
-public class Main {
+public class Main1 {
 
     private static ArrayList<String> todoList = new ArrayList<>();
     private static DefaultListModel<String> listModel = new DefaultListModel<>();
